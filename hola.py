@@ -1,2 +1,2 @@
 nombre = input("¿Cómo te llamas? ")
-print(f"Mensaje desde la rama PRINCIPAL: ¡Hola, {nombre}!")
+print(f"Combinación de ramas lograda con éxito")
